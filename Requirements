@@ -1,0 +1,4 @@
+Install Selenium Library
+  pip install selenium
+
+Download driver at https://chromedriver.chromium.org/downloads
